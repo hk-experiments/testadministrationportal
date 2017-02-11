@@ -1,6 +1,3 @@
-# testadministrationportal
-Web Application to administer tests to candidates
-
 Interactive portal
 			Admin view
 				Bulk upload questions and answers in JSON/XML/Some other format
