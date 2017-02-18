@@ -10,7 +10,7 @@ Interactive portal
 				Log in
 				Take test - one question on the page at a time
 				Track test time
-				Submit
+				Submit 
 			Authentication Module from Karna - Github
 				Signup
 				Role/Mode
